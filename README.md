@@ -1,2 +1,2 @@
-# Paloalto_FW_HA_Upgrade
-Paloalto_FW_HA_Upgrade
+# Paloalto_FW_SA_Upgrade
+Paloalto_FW_SA_Upgrade
